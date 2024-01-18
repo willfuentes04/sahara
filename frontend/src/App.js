@@ -10,11 +10,9 @@ function App() {
     <div className='d-flex flex-column site-container'>
       <header>
         <Navbar bg="dark" variant="dark">
-          <container>
             <LinkContainer to="/">
             <Navbar.Brand>sahara</Navbar.Brand>
              </LinkContainer>
-          </container>
         </Navbar>
         <Link to="/">sahara</Link>
 
